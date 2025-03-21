@@ -12,6 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=ruby
 device.name2=rubypro
+device.name3=rubyx
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
