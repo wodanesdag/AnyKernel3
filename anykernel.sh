@@ -4,15 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Redmi Note 12 Pro (ruby) - Kernel by Wodanesdag
+kernel.string=Samsung Galaxy Tab A7 - Kernel by Wodanesdag
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ruby
-device.name2=rubypro
-device.name3=rubyx
+device.name1=gta4l
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
@@ -20,7 +18,7 @@ supported.vendorpatchlevels=
 
 # boot shell variables
 BLOCK=boot;
-IS_SLOT_DEVICE=1;
+IS_SLOT_DEVICE=0;
 RAMDISK_COMPRESSION=auto;
 PATCH_VBMETA_FLAG=auto;
 
